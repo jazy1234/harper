@@ -1,0 +1,13 @@
+.start
+{
+display: flex;
+background-color: dodgerblue;
+flex-direction: row-reverse;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.start>div{
+    background-color: grey;
+    margin: 10px;
+    padding: 20px;
+}
