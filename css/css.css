@@ -1,0 +1,35 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.start {
+  height: 800px;
+  width: 100%;
+  background-image: url("../image/as.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.text {
+  padding-top: 250px;
+  text-align: center;
+  font-size: 30px;
+  color: white;
+  font-family: "Nunito", sans-serif;
+}
+.center {
+  margin: 0px auto;
+  height: 300px;
+  width: 80%;
+  font-family: "Nunito", sans-serif;
+}
+.container { 
+  width: 80%;
+  margin: 0 auto;
+  font-family: "Nunito", sans-serif;
+}
+.d-flex {
+    font-family: "Nunito", sans-serif;
+  display: flex;
+}
