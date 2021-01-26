@@ -1,0 +1,22 @@
+.bd-navbar {
+    padding: .75rem 0;
+    background-color: #7952b3;
+}
+
+.white {
+    color: white;
+}
+
+.btn-bd-download {
+    font-weight: 600;
+    color: #ffe484;
+    border-color: #ffe484;
+}
+
+.social-icon li i {
+    margin: 0.5rem;
+}
+
+ul li a {
+    color: white;
+}
