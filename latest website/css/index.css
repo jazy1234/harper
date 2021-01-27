@@ -20,3 +20,76 @@
 ul li a {
     color: white;
 }
+
+.h400px {
+    height: 600px;
+    object-fit: cover;
+}
+
+.blue {
+    color: cornflowerblue;
+}
+
+.list-none {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+}
+
+.text-p-l {
+    position: absolute;
+    right: 67%;
+    bottom: 200px;
+    left: 4%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: left;
+}
+
+.text-p-r {
+    position: absolute;
+    right: 4%;
+    bottom: 200px;
+    left: 63%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: right;
+}
+
+h1 {
+    font-size: 50px;
+    color: mintcream;
+}
+
+.text-p-c {
+    position: absolute;
+    right: -11%;
+    bottom: 243px;
+    left: 23%;
+    z-index: 10;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: #fff;
+    text-align: center;
+    width: 50%;
+}
+
+p {
+    font-size: 18px;
+    color: mintcream
+}
+
+.btn-secondary {
+    background-color: transparent;
+    color: white;
+    border: 1px solid mintcream;
+    width: 100px;
+}
+
+.carousel-indicators li {
+    background-color: rebeccapurple;
+}
